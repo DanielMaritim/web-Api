@@ -1,0 +1,3 @@
+Note that sessionStorage gets forgotten at the end of a session which 
+basically mean that when a browser is closed,all data is lost unlike
+localStorage
